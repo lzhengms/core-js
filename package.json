@@ -1,6 +1,6 @@
 {
-  "name": "core-js",
-  "description": "Standard library",
+  "name": "core-js-update",
+  "description": "Standard library fix ie8 bug",
   "version": "2.4.1",
   "repository": {
     "type": "git",
